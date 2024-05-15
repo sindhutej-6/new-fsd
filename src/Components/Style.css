@@ -1,0 +1,67 @@
+h1{
+    color: red;
+    display: block;
+    margin-right: 290px;
+    
+}
+#btn{
+    position: relative;
+    top: 100px;
+}
+
+
+#sub{
+    background-color: blanchedalmond;
+    color: rgb(173, 147, 151);
+}
+li{
+    list-style-type: none;
+    display: inline;
+    margin:30px;
+    float: left;
+    
+}
+:link{
+    text-decoration: none;
+}
+.list{
+    margin-left: 520px;
+    height: 100px;
+    width: 480px;
+    background-color: aliceblue;
+}
+#form{
+   height: 350px;
+   width: 350px;
+   /* color: rgb(255, 254, 255); */
+   /* outline: 1px solid black; */
+   margin-left: 520px;
+   margin-top: 50px;
+   padding-left: 160px;
+  
+   /* background-image: url('man-plays-acoustic-guitar-closeup.jpg');
+   background-repeat: no-repeat;
+   background-size: 100% 100%;
+   filter: opacity(0.9) */
+   
+  
+}
+.anotherdiv{
+    position: relative;
+    top: 50px;
+    left: 50px;
+
+}
+.anotherform{
+    height: 350px;
+   width: 350px;
+   /* color: rgb(255, 254, 255); */
+   /* outline: 1px solid black; */
+   margin-left: 520px;
+   padding-left: 160px;
+   margin-top: 50px;
+   padding-top: 50px;
+
+  
+
+}

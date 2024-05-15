@@ -1,0 +1,114 @@
+.navb{
+    margin-right: 600px;
+    margin-left: 15px;
+}
+#space{
+    margin-right: 25px;
+}
+#one{
+    height: 500px;
+    width: 100%;
+}
+#two{
+    
+    text-align: center;
+    padding-top: 60px;
+    color: rgb(247, 177, 47);
+    
+    
+}
+#two-a{
+    float: left;
+    overflow: hidden;
+    overflow-y: hidden;
+    overflow-x: hidden;
+    padding: 100px;
+    
+}
+#content{
+    text-align: justify;
+}
+body{
+    overflow-x: hidden;
+}
+#icondiv{
+    
+    padding-top: 30px;
+    padding-left: 100px;
+    padding-right: 100px;
+
+}
+/* #icondiv1{
+    padding-top: 60px;
+    padding-right:140px;
+}
+#icondiv2{
+    position: relative;
+    right: 100px;
+} */
+
+#icon1{
+    height: 60px;
+    width: 60px;
+    position: relative;
+    right: 50px;
+    margin-top: 50px;
+    margin-left: 10px;
+    float: left;
+}
+#icon1-a{
+    margin-top: 40px;
+    
+}
+#thirddiv{
+    height: 400px;
+    margin-top: 60px;
+    padding-left: 220px;
+    background-color: rgb(239, 233, 233);
+    padding-top: 50px;
+}
+.framelayer1{
+    height: 150px;
+    width: 300px;
+    background-color: rgb(247, 193, 55);
+    outline: 4px solid lightgray;
+    position: relative;
+    top: 80px;
+    left: 200px;
+}
+.framelayer2{
+    height: 150px;
+    width: 300px;
+    /* background-color:red; */
+    outline: 4px solid lightgray;
+    position: relative;
+    bottom: 80px;
+    right: 200px;
+    
+}
+#fourthdiv{
+    height: 400px;
+    padding-left: 220px;
+    padding-top: 50px;
+}
+#fifthdiv{
+    height: 650px;
+    margin-top: 60px;
+    background-color: rgb(239, 233, 233);
+    padding-top: 50px;
+    color: orange;
+}
+#link{
+    margin-right: 40px;
+    color: orange;
+    text-decoration: orange;
+}
+#fifthdiv2{
+    height: 400px;
+    width: 1000px;
+    margin-top: 60px;
+    
+    background-color: white;
+    
+    
+}
